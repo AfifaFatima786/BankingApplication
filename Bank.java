@@ -112,7 +112,7 @@ System.out.println("Transaction didn't occured");
     break;
 }
     }
-    while(ch==5);
+    while(ch!=5);
 
 System.out.println("Thankyou !");
 }
